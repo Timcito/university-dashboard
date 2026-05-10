@@ -12,10 +12,8 @@ Dashboard interactivo desarrollado en **Streamlit** para analizar datos estudian
 
 ## 👥 Integrantes del equipo
 
-- Nombre Apellido 1
-- Nombre Apellido 2
-- Nombre Apellido 3
-- Nombre Apellido 4
+- Martin Torres
+- William Angulo
 
 ## 📊 Visualizaciones incluidas
 
