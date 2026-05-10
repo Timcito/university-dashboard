@@ -34,26 +34,10 @@ Dashboard interactivo desarrollado en **Streamlit** para analizar datos estudian
 
 Todos los gráficos e indicadores se actualizan dinámicamente al cambiar los filtros.
 
-## 🚀 Cómo ejecutar localmente
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
-
-# 2. Instalar dependencias
-pip install -r requirements.txt
-
-# 3. Ejecutar la app
-streamlit run app.py
-```
-
-> Asegúrate de que el archivo `university_student_data.csv` esté en la misma carpeta que `app.py`.
-
 ## ☁️ Deploy en Streamlit Cloud
 
 La app está desplegada en:  
-🔗 **[https://TU-APP.streamlit.app](https://TU-APP.streamlit.app)**
+🔗 **https://university-dashboard-7h4u9bgytdueapfexotpnn.streamlit.app/**
 
 ## 📁 Estructura del repositorio
 
