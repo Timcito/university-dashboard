@@ -40,7 +40,7 @@ sel_depts = st.sidebar.multiselect("Departamento", departments, default=departme
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("**Equipo:**")
-st.sidebar.markdown("- Nombre 1\n- Nombre 2\n- Nombre 3\n- Nombre 4")
+st.sidebar.markdown("Martin Torres\n- William Angulo")
 
 # ── Filtrado ───────────────────────────────────────────────────────────────────
 filtered = df[df["Year"].isin(sel_years) & df["Term"].isin(sel_terms)].copy()
